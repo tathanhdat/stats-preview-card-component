@@ -11,6 +11,7 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
+![Desktop Preview](https://github.com/tathanhdat/stats-preview-card-component/blob/main/screenshot.png)
 
 ### Links
 
