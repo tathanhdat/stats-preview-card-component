@@ -20,5 +20,5 @@ Users should be able to:
 ## Author
 
 - Website - [Ta Thanh Dat](https://www.facebook.com/tathanh.dat.5/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tathanhdat)
+- Frontend Mentor - [ta Thanh dat](https://www.frontendmentor.io/profile/tathanhdat)
 
