@@ -19,6 +19,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Ta Thanh Dat](https://www.facebook.com/tathanh.dat.5/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tathanhdat)
+
